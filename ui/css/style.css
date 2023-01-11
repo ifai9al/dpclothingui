@@ -177,7 +177,7 @@ body{
     position: relative;
     width: 31vh;
     height: 0.5vh;
-    background: black;
+    background: #000000ba;
     border-radius: 5vh;
 }
 
@@ -185,7 +185,7 @@ body{
     position: relative;
     width: 35.4vh;
     height: 0.5vh;
-    background: black;
+    background: #000000ba;
     border-radius: 5vh;
 }
 
