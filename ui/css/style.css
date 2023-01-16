@@ -467,6 +467,31 @@ body{
     transform: rotate(-180deg) scale(1.12);
 }
 
+.onecbutton1{
+    position: relative;
+    width: 4vh;
+    height: 4vh;
+    background: #000000e8;
+    border-radius: 4vh;
+    font-size: 1.5vh;
+    text-align: center;
+    line-height: 4vh;
+    color: white;
+    font-family: sans-serif;
+    outline: 2px solid white;
+    margin-right: 10px;
+    transform: rotate(-180deg);
+    overflow: hidden;
+}
+
+.onecbutton1 > img{
+    width: 95%;
+}
+
+.onecbutton1:hover{
+    transform: rotate(-180deg) scale(1.12);
+}
+
 .listofhomebuttins{
     position: relative;
     width: 25%;
