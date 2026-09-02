@@ -46,9 +46,3 @@ All core functionality remains from the original script (clothing variations, to
 - Original script by **[andristum](https://github.com/andristum/dpclothing)** and contributors
 - Custom NUI design & redesign by **[iFaisal Studio](https://fasr.sa)**
 
----
-
-## 📬 Support
-
-Need a custom script or a UI redesign for your own FiveM server?
-Reach out via [Telegram](https://t.me/xifai9al) or visit **[fasr.sa](https://fasr.sa)**.
