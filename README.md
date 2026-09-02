@@ -4,6 +4,8 @@ A visually redesigned version of the popular **[dpclothing](https://github.com/a
 
 All core functionality remains from the original script (clothing variations, toggles for gloves, vest, top, hair, bag, and more) — this edition focuses entirely on a redesigned, modern user experience.
 
+![DP Clothing Cover](github_cover.png)
+
 ---
 
 ## ✨ What's New
