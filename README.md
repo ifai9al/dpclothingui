@@ -21,8 +21,7 @@ All core functionality remains from the original script (clothing variations, to
 ## 📦 Requirements
 
 - FiveM Server
-- QBCore Framework
-- Original **dpclothing** dependencies (see the [original repository](https://github.com/andristum/dpclothing) for full details)
+--
 
 ---
 
